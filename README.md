@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.Testando a branch main</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura, testeando o git branch aulaaaaaaa.Testando a branch main</p>
 
 ## 🚀 Tecnologias
 <div>
